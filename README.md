@@ -1,0 +1,1 @@
+Simple django signup and login project using django authentication. "loginsystem" is the main project and "accountapp" is an app created in the project. You can start using the project by command "python manage.py runserver".
